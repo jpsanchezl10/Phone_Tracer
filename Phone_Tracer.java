@@ -17,7 +17,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        String key = "a52e18293d5e9335bbf5a4eb6d29c8ec";
+        String key = "your key";
         Scanner number = new Scanner(System.in);
         System.out.println("Ingresa el numero a escanear :");
         String numb = number.nextLine();
